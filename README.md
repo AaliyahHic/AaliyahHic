@@ -1,5 +1,3 @@
-<img src="https://raw.githubusercontent.com/AaliyahHic/AaliyahHic/main/Diabetes_Glucose_Banner.png" width="100%">
-
 # 👋 Hi, I'm Aaliyah Hickson  
 ### 🎓 Data Science Student | 📊 Future Data Analyst | 💙 Diabetes Advocate
 
